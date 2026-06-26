@@ -1,2 +1,2 @@
 # mensergerjeniet
-Meer Next Standard. Minder ergernis
+Meer Next Standard. Minder ergernis.
